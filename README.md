@@ -7,5 +7,5 @@ game is to take control of the whole grid within a limited number of clicks.
 The game consists of 
  - a grid with a configurable size
  - a configurable number of colors
- - a number of clicks allowed depending on the size of the grid and the number of colors.
+ - a number of clicks allowed depending on the size of the grid and the number of colors
  - a timer
