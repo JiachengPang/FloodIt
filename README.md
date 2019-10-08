@@ -1,5 +1,5 @@
 # FloodIt
-The game FloodIt.
+A FloodIt game in Java
 
 The Player initially controls the top left square in the grid. By clicking the squares with different colors adjacent to the controlled
 area, the player changes the color of controlled area and can take control of all adjacent squares with the same color. The goal of the 
